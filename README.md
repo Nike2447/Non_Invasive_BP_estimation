@@ -1,4 +1,4 @@
-# AlexNet and ResNet for PPG Time-Series Regression
+# PPG Time-Series Regression
 
 This repository contains implementations of **AlexNet** and **ResNet** models designed for regression tasks on **PPG (Photoplethysmogram) time-series data**. The goal is to predict Systolic Blood Pressure (SBP) and Diastolic Blood Pressure (DBP) values.
 
